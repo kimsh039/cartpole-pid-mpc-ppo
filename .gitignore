@@ -1,0 +1,22 @@
+# Python
+python/.venv/
+**/__pycache__/
+*.py[cod]
+
+# MATLAB temporary and locally generated duplicates
+*.asv
+*.autosave
+matlab/*.csv
+matlab/*.mat
+matlab/ppo_agent_untrained_check.mat
+matlab/ppo_smoke_test.mat
+
+# Original scratch outputs retained only on the development machine
+output_pictures/
+ros2_ws/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+*~
