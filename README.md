@@ -9,7 +9,7 @@
 
 ![PID, MPC, PPO 3D comparison](docs/images/pybullet_all_3d.png)
 
-**3D 동시 비교 영상:** [controller_comparison.webm](docs/media/controller_comparison.webm)
+**3D 동시 비교 영상:** [controller_comparison.webm](docs/media/controller_comparison.webm) / https://www.youtube.com/watch?v=3_TuJsbdQDg
 
 ---
 
